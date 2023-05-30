@@ -1,0 +1,29 @@
+/******************************************************************************
+
+função que retorne a diferença entre dois numeros inteiros digitados pelo usuário;
+@nicolyferreira1
+*******************************************************************************/
+#include <stdio.h>
+
+int diferenca(int x, int y) {
+ return x-y;
+}
+
+
+int main()
+{
+    int x, y;
+  printf("Digite um numero: ");
+  scanf("%d", &x);
+  printf("Digite um numero: ");
+  scanf("%d", &y);
+  
+
+  printf("A diferença é de= %d", diferenca(x,y));
+
+return 0;
+}
+
+
+
+
