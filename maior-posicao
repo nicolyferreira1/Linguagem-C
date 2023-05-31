@@ -1,3 +1,6 @@
+NICOLY FERREIRA
+Programa recebe três valores inteiros e retorna qual é o maior valor e qual posição ele está.
+
 #include <stdio.h>
 
 void main()
