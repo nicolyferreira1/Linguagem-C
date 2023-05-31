@@ -1,7 +1,7 @@
 /******************************************************************************
-
+NICOLY FERREIRA 
 função que retorne a diferença entre dois numeros inteiros digitados pelo usuário;
-@nicolyferreira1
+
 *******************************************************************************/
 #include <stdio.h>
 
