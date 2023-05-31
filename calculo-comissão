@@ -2,7 +2,7 @@
 
 aula 15-02
 nicoly ferreira de paula
-
+Programa calcula o valor da comissão de acordo com o valor do carro vendido
 *******************************************************************************/
 #include <stdio.h>
 
