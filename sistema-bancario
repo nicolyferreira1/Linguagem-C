@@ -1,6 +1,6 @@
 /******************************************************************************
 NICOLY FERREIRA
-sistema de caixa eletrônico 
+sistema de caixa eletrônico, onde é possível depositar, sacar e visualizar saldo.
 
 *******************************************************************************/
 #include <stdio.h>
