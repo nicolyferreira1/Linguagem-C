@@ -1,3 +1,6 @@
+NICOLY FERREIRA
+programa para saber o valor das horas do serviço que minha empresa faz.
+
 #include <stdio.h>
 #define TAM 18
 
