@@ -1,8 +1,8 @@
 /******************************************************************************
+NICOLY FERREIRA
 exercicio 3
 leia um vetor de 10 posicoes
 conte e escreva quantos valores pares ele possui
-
 
 *******************************************************************************/
 #include <stdio.h>
