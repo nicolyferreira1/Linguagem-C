@@ -1,7 +1,8 @@
 /******************************************************************************
+NICOLY FERREIRA 
 
-ex 6
-
+o programa calcula o valor de z com base nos valores digitados pelo usuário para x e y, e em seguida, 
+imprime uma mensagem correspondente com base no valor de z, retirado de uma tabela.
 *******************************************************************************/
 #include <stdio.h>
 
